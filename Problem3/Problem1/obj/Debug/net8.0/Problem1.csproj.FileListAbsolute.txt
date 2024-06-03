@@ -1,0 +1,14 @@
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\bin\Debug\net8.0\Problem1.exe
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\bin\Debug\net8.0\Problem1.deps.json
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\bin\Debug\net8.0\Problem1.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\bin\Debug\net8.0\Problem1.dll
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\bin\Debug\net8.0\Problem1.pdb
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.dll
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\refint\Problem1.dll
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.pdb
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\Problem1.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Documents\Desktop\School\second_term_current\CS161N\labs\CS_161_Lab2\labs\Problem1\Problem1\obj\Debug\net8.0\ref\Problem1.dll

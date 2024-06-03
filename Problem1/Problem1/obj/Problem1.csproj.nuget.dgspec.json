@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel\\OneDrive\\Documents\\Desktop\\School\\second_term_current\\CS161N\\labs\\CS_161_Lab2\\labs\\Problem1\\Problem1\\Problem1.csproj": {}
+    "C:\\Users\\Daniel\\Desktop\\Lab6ForLindy\\Lab6_CS162N_Daniel_Cortez_Sanchez\\Problem1\\Problem1\\Problem1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel\\OneDrive\\Documents\\Desktop\\School\\second_term_current\\CS161N\\labs\\CS_161_Lab2\\labs\\Problem1\\Problem1\\Problem1.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Lab6ForLindy\\Lab6_CS162N_Daniel_Cortez_Sanchez\\Problem1\\Problem1\\Problem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Documents\\Desktop\\School\\second_term_current\\CS161N\\labs\\CS_161_Lab2\\labs\\Problem1\\Problem1\\Problem1.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Lab6ForLindy\\Lab6_CS162N_Daniel_Cortez_Sanchez\\Problem1\\Problem1\\Problem1.csproj",
         "projectName": "Problem1",
-        "projectPath": "C:\\Users\\Daniel\\OneDrive\\Documents\\Desktop\\School\\second_term_current\\CS161N\\labs\\CS_161_Lab2\\labs\\Problem1\\Problem1\\Problem1.csproj",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Lab6ForLindy\\Lab6_CS162N_Daniel_Cortez_Sanchez\\Problem1\\Problem1\\Problem1.csproj",
         "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel\\OneDrive\\Documents\\Desktop\\School\\second_term_current\\CS161N\\labs\\CS_161_Lab2\\labs\\Problem1\\Problem1\\obj\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Lab6ForLindy\\Lab6_CS162N_Daniel_Cortez_Sanchez\\Problem1\\Problem1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
